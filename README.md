@@ -31,9 +31,6 @@ This assignment is part of:
 > [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  
 > Instructor: **Andrew Ng**
 
-##  Output Preview
-
-![Sample Output](images/cat-prediction.png)
 
 ##  License
 
